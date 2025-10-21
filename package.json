@@ -1,7 +1,7 @@
 {
   "name": "yuuyake-code",
   "displayName": "Yuuyake",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "description": "The yuuyake color palette",
   "author": {
     "name": "çiqvĕɳ tyoⱶĭnƺĕ"
@@ -19,7 +19,7 @@
   },
   "pricing": "Free",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
