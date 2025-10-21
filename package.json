@@ -1,0 +1,21 @@
+{
+  "name": "yuuyake-code",
+  "displayName": "yuuyake-code",
+  "description": "Yuuyake theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yuuyake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yuuyake-color-theme.json"
+      }
+    ]
+  }
+}
